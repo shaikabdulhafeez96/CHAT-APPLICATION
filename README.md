@@ -25,3 +25,7 @@ To run this project, we will install Node.js and use commands like npm init and 
 This project demonstrates how real-time communication works on the internet. It teaches important concepts such as event-driven programming, client-server communication, and handling multiple users at the same time. It also helps in understanding how modern apps like WhatsApp Web, Facebook Messenger, or Slack work internally.
 
 In short, this Chat Application project is about combining both frontend and backend development to create a live, interactive chat system. It improves skills in Node.js, Express.js, and Socket.IO while also showing how to make user interfaces with HTML, CSS, and JavaScript. The final deliverable is a fully functional chat web app where users can join, send messages, and see them in real time without refreshing — just like a professional chat service.
+
+#OUTPUT
+
+<img width="1920" height="1140" alt="Image" src="https://github.com/user-attachments/assets/6b1d555d-0947-45ae-9975-3ff22d3105a5" />
